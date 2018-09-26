@@ -4,5 +4,5 @@
 def key_for_min_value(name_hash)
   name = 0
   min_key = 0
-    name_hash.
+    name_hash.each do 
 end
